@@ -122,7 +122,7 @@ groupId|This is an Id of project's group. This is generally unique amongst an or
 artifactId|This is an Id of the project.This is generally name of the project. For example, consumer-banking. Along with the groupId, the artifactId defines the artifact's location within the repository.
 version|This is the version of the project.Along with the groupId, It is used within an artifact's repository to separate versions from each other. For example:<br><li> com.company.bank:consumer-banking:1.0</li> <br><li> com.company.bank:consumer-banking:1.1.</li> 
 
-Note: The POM contains information about the project and various configuration detail used by Maven to build the project(s).
+Note: The POM contains information about the project and various configuration detail used by Maven to build the project(s). Test
 
 
 
